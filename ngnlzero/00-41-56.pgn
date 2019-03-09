@@ -1,0 +1,8 @@
+[White "Riku"]
+[Black "Schwi"]
+[Result "0-1"]
+[ECO "A04"]
+[Comment "Some part of the board is not visible, pieces may be missing"]
+[FEN "8/1b3Bp1/1p3bQp/k1p1pP2/4q3/2P5/4n1N1/7K b - - 0 1"]
+
+1...Qh4# 0-1

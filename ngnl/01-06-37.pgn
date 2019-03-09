@@ -1,0 +1,25 @@
+[Event "Essent Open"]
+[Site "Hoogeveen NED"]
+[Date "2005.10.24"]
+[EventDate "2005.10.23-29"]
+[Round "2"]
+[White "Peter K Wells"]
+[Black "Yoshiharu Habu"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "D47"]
+[Opening "Semi-Slav Defense: Meran Variation"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5
+8. Be2 b4 9. Na4 Bd6 10. e4?! { Inaccuracy. Best move was Qc2. } (10. Qc2 Bb7)
+10... Nxe4 11. Qc2 f5 12. Ng5 Nxg5?! { Inaccuracy. Best move was Ndf6. }
+(12... Ndf6 13. Qxc6+ Bd7 14. Qa6 Qc8 15. Nxe4 Nxe4 16. Nc5 Qxa6 17. Bxa6 Bxc5
+18. dxc5 Nxc5 19. Be2) 13. Qxc6 Ne4 14. Qxa8 O-O 15. Qc6 Ndf6
+16. f3?? { Blunder. Best move was O-O. } (16. O-O Bd7 17. Qc2 Nd5 18. Nc5 Qh4
+19. h3 Rc8 20. Qb3 Nxc5 21. dxc5 Rxc5 22. a3 Ra5)
+16... Bd7?? { Blunder. Best move was Bxh2. }
+(16... Bxh2 17. fxe4 Bg3+ 18. Kd1 Qxd4+ 19. Kc2 Bd7 20. Qa6 Qxe4+ 21. Qd3 Bxa4+
+22. Kb1 Bc6 23. Qc2) 17. Qa6 Bxa4 18. Qxa4 Bxh2 19. Rxh2 Qxd4 20. fxe4 Nxe4
+21. Rh1?? { Checkmate is now unavoidable. Best move was Qb5. } (21. Qb5)
+21... Qf2+ 22. Kd1 Rd8+ 23. Kc2 Qxe2+ 24. Kb1 Nc3+ 25. bxc3 bxc3 26. Ba3 Rb8+
+27. Qb3 Qd3+ 28. Kc1 Qd2+ { 0-1 White resigns. } 29. Kb1 c2+ 30. Kb2 c1=Q# 0-1

@@ -1,0 +1,6 @@
+[White "Riku"]
+[Black "Tet"]
+[Result "0-1"]
+[FEN "5r2/5nPp/1BNpRqk1/Q1p1p3/p3P1PP/PpP5/1P5r/K7 w - - 2 2"]
+
+2.g8=R+ Rxg8 3.Rxf6+ Kxf6 4.Bd8+ Rxd8 5.g5+ Kg7 6.c4 Rh1+ 7.Qe1 Rxe1# 0-1
