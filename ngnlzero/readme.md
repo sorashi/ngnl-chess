@@ -101,7 +101,7 @@ visible – Schwi (black) does a5.
 
 # [1:36:24](01-36-24.pgn)
 
-As Stephanie makes the last move Riku (white) requested (Re6+) and falsely
+As Corone makes the last move Riku (white) requested (Re6+) and falsely
 interprets it as a checkmate, Tet (black) does Qf6 and realizes the game ends in
 a draw due to perpetual check. The PGN includes all moves until the draw could
 be claimed due to threefold repetition.
